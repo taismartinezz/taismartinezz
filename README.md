@@ -12,8 +12,4 @@ I’m a computer science & data science student at Northwestern University.
 - Applications integrating REST and GraphQL APIs
 - Coursework and personal projects emphasizing clean, readable code
 
-### 🌱 Currently learning
-- Advancing React and Next.js patterns
-- Backend integration and data workflows
-
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/taismartinez)
